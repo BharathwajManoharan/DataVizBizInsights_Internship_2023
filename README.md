@@ -1,10 +1,10 @@
 # TATA Data Visualization Empowering Business with Effective Insights Internship
 
-This repository contains the materials and projects completed during the TATA Data Visualization Empowering Business with Effective Insights virtual experience programme. The internship was offered by Tata iQ, providing an opportunity to develop skills in data analytics and harness knowledge in data visualization technologies like Tableau and Power BI.
+This repository contains the materials and projects completed during the TATA Data Visualization Empowering Business with Effective Insights virtual experience program. The internship was offered by Tata iQ, providing an opportunity to develop skills in data analytics and harness knowledge in data visualization technologies like Tableau and Power BI.
 
 ## About the Internship
 
-The internship comprised of four modules, each focusing on a different aspect of data visualization and analysis:
+The internship comprised four modules, each focusing on a different aspect of data visualization and analysis:
 
 1. Framing the Business Scenario: Understanding how to anticipate and address the questions posed by business leaders.
 2. Choosing the Right Visuals: Learning which visuals are most effective in various scenarios and for different business requirements.
